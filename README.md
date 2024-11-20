@@ -49,12 +49,12 @@ O principal objetivo é fornecer uma análise detalhada dos dados públicos sobr
 ## 🌟 Capturas do Dashboard
 
 ### 🎯 Visão Geral
-![Visão Geral do Dashboard](dashboardimagens/Dashboard - Análise Visual dos Gastos Públicos em 2022.png)
+![Visão Geral do Dashboard](dashboard_imagens/Visão_Geral.png)
 
 ### 🔍 Análise de Gastos Suspeitos
-![Análise de Gastos Suspeitos](dashboardimagens/Analises Suspeitas.png)
+![Análise de Gastos Suspeitos](dashboard_imagens/Analises_Suspeitas.png)
 
-*Mais imagens disponíveis na pasta `/dashboardimagens/`.*
+*Mais imagens disponíveis na pasta `dashboard_imagens`.*
 
 ---
 
