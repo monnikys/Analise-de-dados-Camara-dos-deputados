@@ -22,7 +22,7 @@ O principal objetivo é fornecer uma análise detalhada dos dados públicos sobr
 
 ## 🚀 Como Acessar o Dashboard
 
-1. **Baixe o arquivo `.pbix`**:
+1. **Baixe o arquivo `Análise-Visual-dos-Gastos-Públicos-em-2022.pbix`**:
    - Faça o download do arquivo Power BI disponibilizado no repositório.
 2. **Abra no Power BI Desktop**:
    - Utilize o Power BI Desktop para abrir o dashboard e interagir com as visualizações.
@@ -32,16 +32,16 @@ O principal objetivo é fornecer uma análise detalhada dos dados públicos sobr
 ## 📂 Estrutura do Repositório
 
 ```plaintext
-├── data/
-│   ├── despesas_2022.csv   # Dados originais de gastos
-│   ├── transformados.csv   # Dados processados
-├── dashboard/
-│   ├── dashboard.pbix      # Arquivo Power BI
-│   ├── imagens/            # Capturas de tela do dashboard
-├── scripts/
-│   ├── scraping_dados.py   # Script para coletar dados da API
-│   ├── limpeza_dados.py    # Script de limpeza e tratamento
-├── README.md               # Documentação do projeto
+├── dashboard_imagens/
+│   ├── Visao_Geral.png           # Captura da visão geral do dashboard
+│   ├── Gastos_Suspeitos.png      # Captura da análise de gastos suspeitos
+├── Ano-2022 4.csv                # Base de dados bruta em formato CSV
+├── Análise-Visual-dos-Gastos-Públicos-em-2022.pbix  # Dashboard em Power BI
+├── Base_de_dados - Com csv.ipynb # Notebook para processamento de dados
+├── Com_csv.py                    # Script Python para manipulação de dados
+├── Relatório-Integrador-II.pdf   # Relatório final em formato PDF
+├── README.md                     # Documentação do projeto
+
 ```
 
 ---
